@@ -1,0 +1,42 @@
+# Geotecnia1 — Temuco
+
+> Geotechnical engineering services in Temuco, Chile.
+
+## Services
+- [Aislacion Sismica](https://temuco.geotecnia1.co/aislacion-sismica/)
+- [Anclajes](https://temuco.geotecnia1.co/anclajes/)
+- [Cbr Vial](https://temuco.geotecnia1.co/cbr-vial/)
+- [Cimentaciones](https://temuco.geotecnia1.co/cimentaciones/)
+- [Cimentaciones Superficiales](https://temuco.geotecnia1.co/cimentaciones-superficiales/)
+- [Densidad Cono Arena](https://temuco.geotecnia1.co/densidad-cono-arena/)
+- [Ensayo Cpt](https://temuco.geotecnia1.co/ensayo-cpt/)
+- [Ensayo Triaxial](https://temuco.geotecnia1.co/ensayo-triaxial/)
+- [Estabilidad Taludes](https://temuco.geotecnia1.co/estabilidad-taludes/)
+- [Excavaciones Subterraneo](https://temuco.geotecnia1.co/excavaciones-subterraneo/)
+- [Exploracion](https://temuco.geotecnia1.co/exploracion/)
+- [Geofisica](https://temuco.geotecnia1.co/geofisica/)
+- [Geotecnia Vial](https://temuco.geotecnia1.co/geotecnia-vial/)
+- [Grouting](https://temuco.geotecnia1.co/grouting/)
+- [Laboratorio In Situ](https://temuco.geotecnia1.co/laboratorio-in-situ/)
+- [Laboratorio Lab](https://temuco.geotecnia1.co/laboratorio-lab/)
+- [Licuefaccion](https://temuco.geotecnia1.co/licuefaccion/)
+- [Losa De Cimentacion](https://temuco.geotecnia1.co/losa-de-cimentacion/)
+- [Mejoramiento](https://temuco.geotecnia1.co/mejoramiento/)
+- [Monitoreo Excavaciones](https://temuco.geotecnia1.co/monitoreo-excavaciones/)
+- [Muros Contencion](https://temuco.geotecnia1.co/muros-contencion/)
+- [Pavimento Flexible](https://temuco.geotecnia1.co/pavimento-flexible/)
+- [Permeabilidad Campo](https://temuco.geotecnia1.co/permeabilidad-campo/)
+- [Pilotes](https://temuco.geotecnia1.co/pilotes/)
+- [Sismica](https://temuco.geotecnia1.co/sismica/)
+- [Sondaje Spt](https://temuco.geotecnia1.co/sondaje-spt/)
+- [Taludes](https://temuco.geotecnia1.co/taludes/)
+- [Tomografia Sismica](https://temuco.geotecnia1.co/tomografia-sismica/)
+- [Tuneles Suelo Blando](https://temuco.geotecnia1.co/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://temuco.geotecnia1.co/vibrocompactacion/)
+
+## Contact
+- Website: https://temuco.geotecnia1.co/
+
+## About
+This site provides geotechnical engineering services in Temuco, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
